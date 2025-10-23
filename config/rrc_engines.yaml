@@ -1,0 +1,3 @@
+"singularity_echo_chamber: active: True" 
+"threshold: 0.99" 
+"umbra_satori_engine: active: False # L2 activation only" 
